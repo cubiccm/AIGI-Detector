@@ -5,7 +5,7 @@ AI-generated Image Detector based on CLIP
 
 ```bash
 mkdir model_checkpoint
-wget https://github.com/cubiccm/AIGI-Detector/releases/latest/model.pt -O ./model_checkpoint/model.pt
+wget https://github.com/cubiccm/AIGI-Detector/releases/latest/download/model.pt -O ./model_checkpoint/model.pt
 ```
 
 ## Deploy App
